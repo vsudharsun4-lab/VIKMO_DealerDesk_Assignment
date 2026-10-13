@@ -86,7 +86,7 @@ dealerdesk_project/
 
 ## Video walkthrough
 
-- **Link:** [Unlisted Video Walkthrough](https://youtu.be/placeholder-link) *(Add your 5-minute unlisted YouTube / Loom link here)*
+- **Link:** [Project Video Walkthrough](https://1drv.ms/v/c/94e2656cdfcaf110/IQBu8HpeCH4dQrtrzUb25knAASCL6SlAS7NRdDbTaT_sHOc?e=XrZO8V)
 
 ## Assumptions
 
